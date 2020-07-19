@@ -9,12 +9,11 @@ Write a program that prints “Hello World” to the screen.
 
 Write a program that asks the user for their name and greets them with their name.
 
-Problem 3
+<b>Problem 3</b>
 
 Modify the previous program such that only the users you and your instructor are greeted with their names. 
 
-Problem 4
-
+<b>Problem 4</b><br>
 Write a program that will compute the area of a circle. Prompt the user to enter the radius and print a nice message back to the user with the answer.
 
 Problem 5
